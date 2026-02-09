@@ -1,0 +1,30 @@
+{
+  "UTL": [
+    "DEO",
+    "RGT"
+  ],
+  "DEO": [
+    "RGT",
+    "UTL"
+  ],
+  "VRT": [
+    "CAR",
+    "COM"
+  ],
+  "CAR": [
+    "VRT",
+    "DEO"
+  ],
+  "RGT": [
+    "DEO",
+    "UTL"
+  ],
+  "COM": [
+    "CAR",
+    "DEO"
+  ],
+  "SKP": [
+    "UTL",
+    "DEO"
+  ]
+}
